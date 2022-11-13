@@ -40,4 +40,4 @@ function toBinary(item) {
   }
   return str;
 }
-console.log(toBinary(100));
+// console.log(toBinary(100));
